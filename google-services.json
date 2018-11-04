@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "13971250415",
+    "firebase_url": "https://chariot-android-cc9e8.firebaseio.com",
+    "project_id": "chariot-android-cc9e8",
+    "storage_bucket": "chariot-android-cc9e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13971250415:android:0f7b8617498b9f57",
+        "android_client_info": {
+          "package_name": "com.chariot.mobile.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13971250415-n2eoi7fda8bdlgodk980chjebbvpbedf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6iToYYt3i0sYRVk0wVXEUSAZwC90bVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
